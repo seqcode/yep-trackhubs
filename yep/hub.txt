@@ -1,0 +1,6 @@
+hub yep
+shortLabel YEP
+longLabel YEP
+genomesFile genomes.txt
+email wkl29@cornell.edu
+descriptionUrl description.html
